@@ -1,0 +1,8 @@
+.todo__list {
+  text-align: center;
+  align-items: right;
+  padding-right: 30px;
+}
+.todo__item {
+  width: 100%;
+}
